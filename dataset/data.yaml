@@ -1,0 +1,6 @@
+names:
+- drone
+nc: 1
+train: ./dataset/train.txt
+val: ../valid/images
+valid: ./dataset/valid.txt
