@@ -8,4 +8,9 @@ drone detection
 4. Train custom data by Yolov5 : https://github.com/ultralytics/yolov5/wiki/Train-Custom-Data
 5. Export model & detection experiment
 
-- To do
+> Drone Detection Task 
+- get more dataset : web-crawling (image, video)
+- Image labelling : https://github.com/heartexlabs/labelImg
+- data annotation : https://roboflow.com/
+- (Search for Transfer learning and Data augmentation)
+- Train model by Yolov5 Pytorch 
