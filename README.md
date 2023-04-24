@@ -1,3 +1,3 @@
 # AIM
-drone detection
-
+- drone detection
+- microcapstone design (2022)
